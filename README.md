@@ -389,8 +389,7 @@ Includes:
 
 ## GitHub Repository
 
-All files (excluding binaries and executables) are available at:
-**URL**: [To be added to report]
+**URL**: https://github.com/aditya25058/MT25058_PA01
 
 Structure:
 ```
