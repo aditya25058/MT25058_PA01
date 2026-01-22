@@ -1,0 +1,36 @@
+# ===== Compiled binaries =====
+program_A
+program_B
+a.out
+*.exe
+
+# ===== Object files =====
+*.o
+*.obj
+
+# ===== Editor / OS junk =====
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== Build directories (if any) =====
+build/
+bin/
+
+# ===== LaTeX auxiliary files =====
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# ===== Python cache (if plotting scripts used) =====
+__pycache__/
+*.pyc
+
+# ===== Temporary files =====
+*.tmp
+*.temp
